@@ -1,0 +1,30 @@
+{
+  "player_x": 888,
+  "player_y": 320,
+  "player_hp": 7,
+  "score": 130,
+  "monsters": [
+    {
+      "x": 395,
+      "y": 320,
+      "speed": 5,
+      "hp": 5,
+      "state": "move",
+      "frame": 1,
+      "anim_delay": 3,
+      "anim_delay_max": 4,
+      "has_attacked": false
+    },
+    {
+      "x": 114,
+      "y": 320,
+      "speed": 3,
+      "hp": 5,
+      "state": "move",
+      "frame": 0,
+      "anim_delay": 2,
+      "anim_delay_max": 4,
+      "has_attacked": false
+    }
+  ]
+}
